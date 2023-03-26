@@ -1,6 +1,6 @@
-# jokesGenerator
+# jokesGenerator 😬
 
-## JavaScript Fundamentals
+## JavaScript Fundamentals ✅
 
 ### Operation
 
@@ -8,13 +8,13 @@
  
 ### Purpose Utilize:
 
- - async
- - await
- - catch
- - fetch
- - json
- - objects
- - try
+ - async ✅
+ - await ✅
+ - catch ✅
+ - fetch ✅
+ - json ✅
+ - objects ✅
+ - try ✅
  
 
 
@@ -29,11 +29,21 @@
 ![Screenshot 2023-03-26 at 10 13 57](https://user-images.githubusercontent.com/125808990/227768507-20497369-cca3-4b2b-930d-c4d5a86ebfb9.png)
 
 
-## Api:
+## Api: 🔥
 
 https://api-ninjas.com/api/jokes
 
 ### Source:
 
-https://www.youtube.com/watch?v=-7JSF_aATJg&t=1048s
+https://www.youtube.com/watch?v=-7JSF_aATJg&t=1048s 🔥
+
+## VS Code - Extensions 🎯
+
+- [x] Quokka.js 🔥
+- [x] ESLint
+- [x] JavaScript (ES6) 🔥
+- [x] Prettier
+- [x] Tabnine AI Autocomplete
+- [x] GitHub Copilot 🔥
+
 
