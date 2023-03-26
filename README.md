@@ -8,13 +8,13 @@
  
 ### Purpose Utilize:
 
- - async ✅
- - await ✅
- - catch ✅
- - fetch ✅
- - json ✅
- - objects ✅
- - try ✅
+ - async 
+ - await 
+ - catch 
+ - fetch 
+ - json 
+ - objects 
+ - try 
  
 
 
