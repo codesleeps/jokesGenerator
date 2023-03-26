@@ -1,4 +1,3 @@
-// API NINJAS
 // ==============JOKE API===============
 // Joke Generator
 // make variable to target button
