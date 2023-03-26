@@ -2,6 +2,8 @@
 
 ## JavaScript Fundamentals
 
+### Source: https://www.youtube.com/watch?v=-7JSF_aATJg&t=1048s
+
 ## Api
 
 https://api-ninjas.com/api/jokes
