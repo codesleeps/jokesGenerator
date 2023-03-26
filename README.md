@@ -5,6 +5,17 @@
 ### Operation
 
  - Simply click the 'tell Me A Joke' button, and a joke will appear
+ 
+### Purpose Utilize:
+
+ - async
+ - await
+ - catch
+ - fetch
+ - json
+ - objects
+ - try
+ 
 
 
 
