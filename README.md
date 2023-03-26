@@ -3,9 +3,7 @@
 ## JavaScript Fundamentals
 
 
-## Api
 
-https://api-ninjas.com/api/jokes
 
 ### Screenshots
 
@@ -16,6 +14,11 @@ https://api-ninjas.com/api/jokes
 ![Screenshot 2023-03-26 at 10 13 57](https://user-images.githubusercontent.com/125808990/227768507-20497369-cca3-4b2b-930d-c4d5a86ebfb9.png)
 
 
+## Api:
 
-### Source: https://www.youtube.com/watch?v=-7JSF_aATJg&t=1048s
+https://api-ninjas.com/api/jokes
+
+### Source:
+
+https://www.youtube.com/watch?v=-7JSF_aATJg&t=1048s
 
