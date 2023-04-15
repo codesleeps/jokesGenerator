@@ -35,15 +35,14 @@
 [Small Device](https://user-images.githubusercontent.com/125808990/228458917-a31f0471-6a0e-45f3-8704-d6d75625d463.png)
 
 
-API Key
 
-![Screenshot 2023-03-26 at 10 20 41](https://user-images.githubusercontent.com/125808990/227768497-3d5b4123-867e-44ea-948e-1aeaa0210f34.png)
+[Logic](https://user-images.githubusercontent.com/125808990/227768497-3d5b4123-867e-44ea-948e-1aeaa0210f34.png)
 
 ## Api: 🔥
 
 https://api-ninjas.com/api/jokes
 
-![Screenshot 2023-03-26 at 10 13 57](https://user-images.githubusercontent.com/125808990/227768507-20497369-cca3-4b2b-930d-c4d5a86ebfb9.png)
+[api-ninja](https://user-images.githubusercontent.com/125808990/227768507-20497369-cca3-4b2b-930d-c4d5a86ebfb9.png)
 
 
 
