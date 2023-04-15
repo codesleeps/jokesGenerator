@@ -28,11 +28,9 @@
 
 ### Screenshots
 
-Desktop View
 
 [Big Device](https://user-images.githubusercontent.com/125808990/227768486-28954d59-08f0-4980-8ba3-f2a5d7d979a8.png)
 
-Mobile View
 
 [Small Device](https://user-images.githubusercontent.com/125808990/228458917-a31f0471-6a0e-45f3-8704-d6d75625d463.png)
 
