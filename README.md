@@ -13,13 +13,14 @@
 ### Purpose Utilize:
 
  - API
+ - fetch 
  - async 
  - await 
+ - try 
  - catch 
- - fetch 
  - json 
  - objects 
- - try 
+ 
  
 
 
@@ -29,11 +30,11 @@
 
 Desktop View
 
-![Screenshot 2023-03-26 at 10 21 11](https://user-images.githubusercontent.com/125808990/227768486-28954d59-08f0-4980-8ba3-f2a5d7d979a8.png)
+[Big Device](https://user-images.githubusercontent.com/125808990/227768486-28954d59-08f0-4980-8ba3-f2a5d7d979a8.png)
 
 Mobile View
 
-![Screenshot 2023-03-29 at 08 17 50](https://user-images.githubusercontent.com/125808990/228458917-a31f0471-6a0e-45f3-8704-d6d75625d463.png)
+[Small Device](https://user-images.githubusercontent.com/125808990/228458917-a31f0471-6a0e-45f3-8704-d6d75625d463.png)
 
 
 API Key
