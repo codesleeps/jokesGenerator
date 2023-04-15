@@ -42,9 +42,7 @@
 
 https://api-ninjas.com/api/jokes
 
-[api-ninja](https://user-images.githubusercontent.com/125808990/227768507-20497369-cca3-4b2b-930d-c4d5a86ebfb9.png)
-
-
+[jokes-api](https://user-images.githubusercontent.com/125808990/227768507-20497369-cca3-4b2b-930d-c4d5a86ebfb9.png)
 
 
 ### Source:
