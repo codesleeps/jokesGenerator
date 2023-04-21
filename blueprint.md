@@ -1,12 +1,6 @@
-<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️-->
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#jokesgenerator-)
+# jokesGenerator 😬
 
-# ➤ jokesGenerator 😬
-
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#javascript-fundamentals-)
-
-## ➤ JavaScript Fundamentals ✅
+## JavaScript Fundamentals ✅
 
 ### Operation
 
@@ -44,10 +38,7 @@
 
 [Logic](https://user-images.githubusercontent.com/125808990/227768497-3d5b4123-867e-44ea-948e-1aeaa0210f34.png)
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#api-)
-
-## ➤ Api: 🔥
+## Api: 🔥
 
 https://api-ninjas.com/api/jokes
 
@@ -58,10 +49,7 @@ https://api-ninjas.com/api/jokes
 
 https://www.youtube.com/watch?v=-7JSF_aATJg&t=1048s 🔥
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#vs-code---extensions-)
-
-## ➤ VS Code - Extensions 🎯
+## VS Code - Extensions 🎯
 
 - [x] Quokka.js 🔥
 - [x] ESLint
