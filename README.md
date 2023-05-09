@@ -28,6 +28,9 @@ I'm a front end developer...
 
 ⚡️ Fun fact...keep smiling 🤖
 
+![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
+
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#javascript-fundamentals-)
 
 # ➤ jokesGenerator 😬
