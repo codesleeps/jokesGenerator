@@ -1,14 +1,41 @@
 <!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️-->
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#jokesgenerator-)
 
+# Hi!... I'm Code Sleep 
+
+## About Me
+
+I'm a front end developer...
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codesleeps.github.io/Bootstrap-Portfolio/)
+
+![logo001](https://user-images.githubusercontent.com/125808990/236808958-deddef64-0c3e-4e5b-92ce-84166aa87fc6.png)
+
+
+👩‍💻 I'm currently working on...React 
+
+🧠 I'm currently learning..._Python_ _MongoDB_ _PHP_
+
+👯‍♀️ I'm looking to collaborate on...any A.I. Projects
+
+🤔 I'm looking for help with...github actions
+
+💬 Ask me about...Travel, manufacturing or design
+
+📫 How to reach me...links below
+
+😄 Pronouns...
+
+⚡️ Fun fact...keep smiling 🤖
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#javascript-fundamentals-)
+
 # ➤ jokesGenerator 😬
 
 [![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
 
-![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#javascript-fundamentals-)
+
 
 ## ➤ JavaScript Fundamentals ✅
 
