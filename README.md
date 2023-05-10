@@ -12,9 +12,9 @@ I'm a front end developer...
 ![logo001](https://user-images.githubusercontent.com/125808990/236808958-deddef64-0c3e-4e5b-92ce-84166aa87fc6.png)
 
 
-👩‍💻 I'm currently working on...React 
+👩‍💻 I'm currently working on...React UI
 
-🧠 I'm currently learning..._Python_ _MongoDB_ _PHP_
+🧠 I'm currently learning..._Python_ _MongoDB_ _PHP_ _Next.JS_ 
 
 👯‍♀️ I'm looking to collaborate on...any A.I. Projects
 
